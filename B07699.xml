@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine reasons, proouing the separation, commonly called Brownists, to be schismatiques. By William Gilgate, minister of the Word of God..</title>
+            <author>Gilgate, William,</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07699</idno>
+            <idno type="OCLC"> 82474855</idno>
+            <idno type="STC">STC 11895.5</idno>
+            <idno type="STC">ESTC S92695</idno>
+            <idno type="EEBO-CITATION">82474855</idno>
+            <idno type="OCLC">ocm 82474855</idno>
+            <idno type="VID">185141</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2251:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine reasons, proouing the separation, commonly called Brownists, to be schismatiques. By William Gilgate, minister of the Word of God..</title>
+                  <author>Gilgate, William,</author>
+                  <author>Stansby, William, fl. 1597-1638, printer.</author>
+                  <author>Butter, Nathaniel, d. 1664, bookseller.</author>
+               </titleStmt>
+               <extent>[13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Stansby for Nathaniel Butter, and are to be sold at his shop neare St. Augustines gate, at the signe of the Pyde Bull.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1621..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title:  "The reasons of the Separation, called Brownists, taken out of two chiefe places of Scripture, answered.</note>
+                  <note>Running title:  "The reasons of the Separation, called Brownists."</note>
+                  <note>"Brownists" in italics whenever mentioned.</note>
+                  <note>Signatures:  A⁴ (-A1, blank leaf?) B⁴.</note>
+                  <note>Ornamental title vignette, head pieces, tailpiece, initials, side-bars.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brownists --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185141:1" rendition="simple:additions"/>
+            <p>CERTAINE REASONS, Proouing the Separation, commonly called <hi>Brownists,</hi> to be Schiſmatiques.</p>
+            <p>By <hi>WILLIAM GILGATE,</hi> Miniſter <hi>of the Word of God.</hi>
+            </p>
+            <q>
+               <bibl>GALAT. 5.19, 20, 21.</bibl>
+               <p>The works of the fleſh are manifeſt,—Seditions,—whereof I tell you before, as I haue told you before, that they that doe ſuch things, ſhall not inherit the Kingdome of God.</p>
+            </q>
+            <p>LONDON Printed by <hi>W. Stansby</hi> for <hi>Nathaniel Butter,</hi> and are to be ſold at his ſhop neare S<hi rend="sup">t</hi>. <hi>Auguſtines</hi> gate, at the ſigne of the Pyde Bull. 1621.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:185141:2"/>
+            <pb facs="tcp:185141:2"/>
+            <head>The Preface to the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Auing ſome yeares ſince ſuffered ſhipwracke in the gulfe of Separati<g ref="char:EOLhyphen"/>on, and by Gods gracious hand ha<g ref="char:EOLhyphen"/>uing beene lifted out, and ſaued from drowning in theſe waues, I thinke it my du<g ref="char:EOLhyphen"/>ty to diſcry to others the danger and eſcape of thoſe paſſages to and from Amſterdam. I left theſe Arguments of mine with Master <hi>Henry Ainſworth,</hi> Preacher to the ſame Engliſh at Amſterdam, calling themſelues the Separation, commonly called <hi>Browniſts;</hi> that hee and his might ſee, how I not raſhly, but for iuſt cauſe left them. Sithence that, I haue beene inwardly moued to publiſh them in print, that they alſo who ſtill ſticke in that pit, may at length perceiue on what a ſandy foundation the Separation is built; and forſaking the ſame with mee and o<g ref="char:EOLhyphen"/>thers, may labour to build themſelues vpon the Rocke Chriſt, ſo as the gates of Hell may not pre<g ref="char:EOLhyphen"/>uaile againſt them, to plucke them from the one
+<pb facs="tcp:185141:3"/> Body, whereof hee is the one onely Head. Be<g ref="char:EOLhyphen"/>cauſe they perſwade themſelues, that their man<g ref="char:EOLhyphen"/>ner of ſeparation is the ſame that the holy Scrip<g ref="char:EOLhyphen"/>tures doe warrant, I haue ſet downe their Rea<g ref="char:EOLhyphen"/>ſons grounded on two chiefe places of the ſame, very firmely, as they imagine: but I haue ſhewed that they wreſt them, as many other alleaged to that end, for the proofe of that which they re<g ref="char:EOLhyphen"/>proue. My reaſons ſhewing their Separation to be a Schiſme, I haue ſet downe briefly. This I haue done, not of hatred to any of their perſons, or any truth of Chriſt, which they hold with the true Churches of God; but of ſincere loue toward them; that they might acknowledge and forſake this worke of the fleſh, Schiſme I meane, which among other excludeth men from the Kingdome of God; which I pray God to beſtow vpon all his there and euery where. Amen.</p>
+            <closer>
+               <signed>William Gilgate.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:185141:3"/>
+            <head>The reaſons of the Separation, cal<g ref="char:EOLhyphen"/>led <hi>Browniſts,</hi> taken out of two chiefe <hi>places of Scripture, anſwered.</hi>
+            </head>
+            <p>GOD admoniſheth his people dwelling in Babylon, <hi>id eſt,</hi> Rome,<note place="margin">
+                  <hi>Reuel.</hi> 18 4.</note> That at length ac<g ref="char:EOLhyphen"/>knowledging the filthineſſe of that Citie, they forſake her:</p>
+            <p>Therefore hee willeth alſo all his people with ſpeed to come forth from the Pariſh Aſſemblies in England.</p>
+            <p>I deny the conſequence. It followeth not; there is not the ſame reaſon. In the Church of Rome men continuing members, are partakers of their dam<g ref="char:EOLhyphen"/>nable errours and ſinnes; but it is not ſo in the Pa<g ref="char:EOLhyphen"/>riſh Aſſemblies of the Church of England. Which is ſo farre from beeing Babylon, that it is the ſtron<g ref="char:EOLhyphen"/>geſt and moſt flouriſhing enemie of Babylon: In which regard it is moſt deadly hated by the Anti<g ref="char:EOLhyphen"/>chriſt of Rome. Let the Separatiſts take heed leſt themſelues, vnder the pretence of hatred to Baby<g ref="char:EOLhyphen"/>lon, build vp a worſe Babylon, or Babell of Confu<g ref="char:EOLhyphen"/>ſion in the Chriſtian Church.</p>
+            <p n="2">2. The beleeuers in the Church of Corinth,<note place="margin">2. <hi>Corin.</hi> 6.17.</note> are for<g ref="char:EOLhyphen"/>bidden to haue fellowſhip with Infidels in Idola<g ref="char:EOLhyphen"/>trie, <hi>id eſt,</hi> in the holy Feaſts they celebrated to the honour of Idols.</p>
+            <pb facs="tcp:185141:4"/>
+            <p>Therefore they may not communicate with the Engliſh Pariſh Aſſemblies in the Word of God, Sacraments, Prayer.</p>
+            <p>Here alſo is an inconſequence: They muſt proue the people there to be Infidels, and thoſe meanes or helpes of Gods worſhip to be Idols, and the vſing of the ſame there, to be idolatrie.</p>
+            <div type="part">
+               <head>Separatists are Schiſmatiques.</head>
+               <p>NAy, the Separation ſeemeth the rather guil<g ref="char:EOLhyphen"/>tie of Idolatrie in adhering to, admiring, and euen adoring their owne dreames and new-fangled fancies.</p>
+               <p>
+                  <note place="margin">My reaſons conuincing them of Schiſme.</note>Where the Sonne of God ſpeaketh to men by his Goſpel, there we may heare him.</p>
+               <p>In the Engliſh Pariſh Aſſemblies, Chriſt ſpeaketh to men by his Goſpel.</p>
+               <p>Therefore in thoſe Pariſh Aſſemblies, wee may heare him. And by conſequence the Separation are Schiſmatiques, refuſing to heare him in any of the ſaid Aſſemblies.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Minor</hi> proued.</note>Where men that were dead in ſinnes and treſpaſ<g ref="char:EOLhyphen"/>ſes, by hearing doe liue ſpiritually, <hi>id eſt,</hi> doe reioice in God, taſting Gods fatherly fauour toward them in Chriſt, there the Sonne of God doth ſpeake to men by his Goſpel.</p>
+               <p>In the ſaid Aſſemblies, ſome men that were dead in ſinnes and treſpaſſes doe liue ſpiritually, &amp;c.</p>
+               <p>Therefore in the ſaid Aſſemblies, at leaſt ſome of them, the Sonne of God doth ſpeake to men by his Goſpel.</p>
+               <pb facs="tcp:185141:4"/>
+               <p>When I vrged this Argument to Maiſter <hi>Ainſ<g ref="char:EOLhyphen"/>worth,</hi> he could anſwer nothing but that Chriſt doth not at any time ſpeake to any by his Goſpell, in the Pariſh Aſſemblies of the Church of Eng<g ref="char:EOLhyphen"/>land, and that none there doe liue by Faith. Which vncharitable and hatefull opinion of his, did make me the more to hate their vnchriſtian opinions.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>2</label> They that conſenting with others in the doctrine of Saluation by Chriſt,<note place="margin">1. <hi>Cor.</hi> 1.10.11. <hi>Iud.</hi> 19.</note> doe neuertheleſſe ſeparate themſelues from them as touching ſpirituall com<g ref="char:EOLhyphen"/>munion, are Schiſmatiques.</p>
+               <p>The Separation doe conſent with others in the doctrine of ſaluation by Chriſt, and yet doe ſepa<g ref="char:EOLhyphen"/>rate from them, as touching ſpirituall communion.</p>
+               <p>Therefore they are Schiſmatiques.</p>
+               <p>The Corinthians were guiltie of Schiſme in hea<g ref="char:EOLhyphen"/>ring ſome teachers, and not otherſome,<note place="margin">
+                     <hi>Maior</hi> proued.</note> though teaching the ſame doctrine; and in not communica<g ref="char:EOLhyphen"/>ting at the Table of the Lord with them that pro<g ref="char:EOLhyphen"/>feſſed the ſame Faith of Chriſt with themſelues.<note place="margin">1. <hi>Cor.</hi> 11.21.</note>
+               </p>
+               <p>Therefore the Separation are guiltie of Schiſme in doing the like.</p>
+               <p>The former had ſome ſhew of reaſon for that they did: ſo haue the latter.</p>
+               <p>Thoſe men that <hi>Iude</hi> ſpeaketh of were Schiſ<g ref="char:EOLhyphen"/>matiques,<note place="margin">2. proofe of the <hi>Maior.</hi>
+                  </note> for ſeparating themſelues from the god<g ref="char:EOLhyphen"/>ly, when they came together to the outward wor<g ref="char:EOLhyphen"/>ſhip of God.</p>
+               <p>Therefore the Separation for doing the like, are likewiſe Schiſmatiques.</p>
+               <p>Let them not falſly affirme, that they from whom they ſeparate in the Pariſh-Aſſemblies, are not god<g ref="char:EOLhyphen"/>ly;
+<pb facs="tcp:185141:5"/> and that the outward worſhip there vſed is not Gods worſhip, becauſe of I know not what preten<g ref="char:EOLhyphen"/>ded defects, and becauſe many wicked are mixed with them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>3</label> They that teach that in thoſe Churches, where open ſinners are tolerated,<note place="margin">
+                     <hi>Reuel.</hi> 2.24. <hi>&amp;</hi> 3.4.</note> no lawfull communion can be had in things of God, and thereupon refuſe to haue communion with the ſame, are Schiſma<g ref="char:EOLhyphen"/>tikes.</p>
+               <p>
+                  <note place="margin">Reaſons diſ<g ref="char:EOLhyphen"/>cuſſed, pag, 247. 249. The <hi>maior</hi> proued.</note>The Separation doe teach this, &amp;c.</p>
+               <p>Therefore they are ſchiſmatiques.</p>
+               <p>Chriſt putteth no ſuch burden vpon the faithfull in Thyatira and Sardis to ſeparate themſelues, be<g ref="char:EOLhyphen"/>cauſe wicked men were tolerated in their Churches.</p>
+               <p>Therefore they are Schiſmatiques that lay ſuch a burden on the faithfull in England.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>4</label> They that refuſe to haue communion in priuate prayer with thoſe,<note place="margin">
+                     <hi>Epheſ.</hi> 4.3.4.5.6.</note> whom they may diſcern to haue communion with Chriſt, are ſchiſmatiques.</p>
+               <p>The Separation for the moſt part doe this.</p>
+               <p>Therefore they are ſchiſmatiques.</p>
+               <p>
+                  <note place="margin">The <hi>maior</hi> proued.</note>In refuſing to haue communion with ſuch, they ſhew themſelues not to bee of the ſame body of Chriſt with them, nor to be led by the ſame Spirit, nor to haue the ſame Lord, and the ſame God and Father; and therefore are Schiſmatiques.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>5</label> They that without iuſt cauſe, renounce all ſpiri<g ref="char:EOLhyphen"/>tuall communion in publique, with a true Church, are Schiſmatiques.</p>
+               <p>The Separation doe this.</p>
+               <p>Therefore they are Schiſmatiques.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Minor</hi> proued.</note>The Church of England is a true Church of God.</p>
+               <pb facs="tcp:185141:5"/>
+               <p>The Separation renounce ſpirituall communion with the Church of England in publique, and that without iuſt cauſe.</p>
+               <p>Therefore they without iuſt cauſe, renounce ſpi<g ref="char:EOLhyphen"/>ritual communion in publique, with a true Church.</p>
+               <p>If the Church of England be the pillar of truth,<note place="margin">
+                     <hi>Maior</hi> proued.</note> vpholding the heauenly truth,<note place="margin">1. <hi>Tim.</hi> 3.16. 1. proofe for the Church of England.</note> againſt all heretiques and the Antichriſt of Rome, as pillars vphold a houſe, then it is a true Church of God.</p>
+               <p>The firſt is true. Therefore the ſecond.</p>
+               <p>The Goſpel of our ſaluation is the word of truth.<note place="margin">The antece<g ref="char:EOLhyphen"/>dent prooued. <hi>Epheſ.</hi> 1.13.</note>
+               </p>
+               <p>The Church of England vpholdeth as a pillar, the Goſpel of our ſaluation.</p>
+               <p>Therefore it vpholdeth the word of truth, and by conſequence it is a true Church.</p>
+               <p>Let them not here ſtand to ſhew a difference be<g ref="char:EOLhyphen"/>tweene the Church of England and Epheſus. There may bee a difference betweene true Churches: not<g ref="char:EOLhyphen"/>withſtanding they are all true, that maintayne the word of truth, the Goſpell.</p>
+               <p>If the Church of England in Queene <hi>Maries</hi> time,<note place="margin">2. proofe for the Church of England.</note> from the errours then maintayned being the princi<g ref="char:EOLhyphen"/>pall was rightly named a falſe corrupted Church: then ſince Queene <hi>Elizabeths</hi> time, the ſame Church from the truth maintayned being the principall, is to be named a true Church.</p>
+               <p>When I mention the truth as principall onely, I argue out of the principles ſuppoſed by the Separa<g ref="char:EOLhyphen"/>tiſts, namely, that there may be ſome inferior errors in the Church of England: As what Church in the world is free from erring in all things? Will the Sepa<g ref="char:EOLhyphen"/>ration boaſt that themſelues haue no errors in their
+<pb facs="tcp:185141:6"/> Church. This taske I leaue to them, both of clearing themſelues from all error, and alſo of accuſing the Church of England of any.</p>
+               <p>
+                  <note place="margin">Antecedent prooued.</note>The denomination or naming of a thing is from the more principall: as it is named a heape of wheate, though much chaffe bee mixed with it; and hee is called not a ſinner, but righteous, whoſe ſinnes are forgiuen, and in whom ſinne reigneth not, though he hath ſinne dwelling in him, &amp; ſometimes ſinneth of infirmitie: and hee is called a ſpirituall man, in whom the regenerate part beareth the ſway.</p>
+               <p>The errours in Queene <hi>Maryes</hi> time were the chiefe and principall; the truths were ouerwhelmed with the multitude of their errours.</p>
+               <p>Therefore from the ſame multitude of vntruths and errors then maintayned, it was to bee named a falſe or corrupt Church: and therefore alſo ſince Queene <hi>Elizabeths</hi> time it is to bee named a true Church, the truths haue preuailed, and are the chiefe part.</p>
+               <p>
+                  <note place="margin">2. proofe of the Antece<g ref="char:EOLhyphen"/>dent.</note>As the Spirits, or teachers are to be tryed by that ſhort ſumme of the Goſpel <hi>(Chriſt is come in the fleſh)</hi> and thereby are to bee iudged true or falſe: ſo by the ſame is a Church to bee iudged true or falſe. From hence I frame this argument.</p>
+               <p>If they bee to bee accounted falſe Teachers, who holding ſome truths of Chriſt, yet alſo holde ſome great errour contrary thereunto, as <hi>Cerinthus</hi> deny<g ref="char:EOLhyphen"/>ing Chriſts godhead; then a Church, as that of Eng<g ref="char:EOLhyphen"/>land in Queene <hi>Maries</hi> time, was to bee accounted a falſe Church, which profeſſing in word that ſentence concerning Chriſts perſon and office, yet in the
+<pb facs="tcp:185141:6"/> meane time defended opinions ouerthrowing the truth both of his natures and offices.</p>
+               <p>The firſt is true. And therefore alſo the ſecond.</p>
+               <p>If they are to be accounted true Teachers,<note place="margin">3. Proofe for the now Church of England to be a true Church.</note> who keepe this foundation <hi>(Chriſt is come in the fleſh)</hi> and build not vpon it any Doctrine, ouerthrowing the ſame; then a Church, as that now of England, is to be held for a true Church, which retayneth this foundation of the Chriſtian Faith, and buildeth not vpon it any Doctrines, ouerthrowing the ſame.</p>
+               <p>The firſt is true. Therefore the ſecond.</p>
+            </div>
+            <div type="part">
+               <head>The Separation haue no iuſt cauſe to ſeparate as they doe, from the Church of England.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>6</label> IF a member of that Church may there not de<g ref="char:EOLhyphen"/>file his garments, then in hearing of the Word read and preached, in Prayer and receiuing the Sacraments, they haue no cauſe to renounce com<g ref="char:EOLhyphen"/>munion with that Church.</p>
+               <p>The firſt is true; and therefore the ſecond.</p>
+               <p>The ſincere and pure profeſſion of Chriſt,<note place="margin">Antecedent proued.</note> from all filth and defilements of monſtrous opinions and vices, are thoſe garments.</p>
+               <p>A member of that Church may make there a pure profeſſion of Chriſt, from all filth and defilements of monſtrous opinions and vices.</p>
+               <p>Therefore a member of that Church may there not defile his garments.</p>
+               <p>
+                  <note place="margin">2. Proofe.</note> A member of that Church needeth not to bee in<g ref="char:EOLhyphen"/>fected with the company of the wicked there; hee
+<pb facs="tcp:185141:7"/> may ſeparate himſelfe from euery of them, but not from the Church where ſuch are.</p>
+               <p>Therefore, a member of that Church may keepe his garments vndefiled.</p>
+               <p>And ſo the Separation haue no iuſt cauſe to re<g ref="char:EOLhyphen"/>nounce communion with the Church of England in thoſe meanes of Gods worſhip.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>7</label> The French and Dutch reformed Churches are true Churches of God.</p>
+               <p>The Separation renounce ſpirituall communion in publique with thoſe Churches.</p>
+               <p>Therefore, they renounce ſpirituall communion in publique with true Churches.</p>
+               <p>
+                  <note place="margin">They haue no iuſt cauſe to doe it, becauſe they meet in Temples.</note>If the difference of places bee taken away by Chriſt, euen as the difference of meates, that as Chriſtians may eate any meates; ſo they may ſerue God in any places: then the Temples they aſſemble in to worſhip God, are no iuſt cauſe of renouncing communion with them.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Coloſſ.</hi> 2.16.</note>The firſt is true: Therefore the ſecond.</p>
+               <p>
+                  <note place="margin">1. <hi>Tim.</hi> 2.8.</note>If they anſwer, the place of <hi>Paul</hi> to <hi>Timothy:</hi> Though he bids vs pray for all men, yet <hi>Iohn</hi> excep<g ref="char:EOLhyphen"/>teth one ſort, 1. <hi>Iohn</hi> 5. ſo though he bids men pray euery where, yet one kind of place is excepted as euill to ſerue God in: let them then name one of the Apoſtles, who hath made ſuch an exception. I de<g ref="char:EOLhyphen"/>ny not that in the old Teſtament, there was in force ſuch a difference of places, but it is taken away in the new Teſtament.</p>
+               <p>
+                  <note place="margin">Nor becauſe they reade a ſet forme of Prayer.</note>If in a ſet forme of prayer read, or ſaid by heart, all things may be put in practice, required in accep<g ref="char:EOLhyphen"/>table prayer to God; then the vſing thereof by theſe
+<pb facs="tcp:185141:7"/> Churches, is no iuſt cauſe of their renouncing com<g ref="char:EOLhyphen"/>munion with them in publique.</p>
+               <p>The firſt is true: Therefore the ſecond.</p>
+               <p>The things asked of God may be ſuch as are con<g ref="char:EOLhyphen"/>tayned <milestone type="tcpmilestone" unit="unspecified" n="1"/> in the Lords prayer. <milestone type="tcpmilestone" unit="unspecified" n="2"/> Wee may haue a ſenſe of our wants, and a deſire of the grace of God to ſupply the ſame. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, Faith, whereby wee be<g ref="char:EOLhyphen"/>leeue and profeſſe, that God for his Sonne Chriſts ſake, will in his due time grant vs our requeſts.</p>
+               <p>Therefore, all things required in acceptable prayer to God (except they can ſhew vs any moe) may be put in practice, in a ſet forme of prayer, read, or ſaid by heart.</p>
+               <pb facs="tcp:185141:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
